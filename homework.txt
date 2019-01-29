@@ -1,0 +1,19 @@
+What are some common attributes you’d use on the following HTML elements:
+
+<img/>
+
+<a>link</a>
+
+<form></form>
+
+<script></script>
+
+<input>
+
+Please be as thorough as possible, you need at least 9 attributes listed in your answer.
+
+<img/> The image element uses the alt, class, and src attribute.
+<a>link</a> The link element uses href, rel, and target attribute.
+<form></form> The form element uses the type and name attribute.
+<script></script> The script element uses the src and type attribute.
+<input> The input element uses the name and id attribute.
